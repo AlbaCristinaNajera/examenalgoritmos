@@ -40,10 +40,10 @@ Algoritmo manejo_de_polizas
 		Fin Si
 	Fin Si
 	
-	Escribir "Monto destinado para la aseguradora:", montoAseguradora
-    Escribir "Monto destinado para los socios:", montoSocios
+	Escribir "El monto destinado para la aseguradora:", montoAseguradora
+    Escribir "Elmonto destinado para los socios:", montoSocios
     Si montoEspecial > 0 entonces
-        Escribir "Monto para el socio con contrato especial:", montoEspecial
+        Escribir "Elonto para el socio con contrato especial:", montoEspecial
     FinSi
 	
 FinAlgoritmo
